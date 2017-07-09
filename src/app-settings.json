@@ -1,0 +1,18 @@
+{
+    "Configuration": {
+        "Title": "C2eLibs",
+        "Game": "Docking Station"
+    },
+    "Logging": {
+        "LogLevel": {
+        "Default": "Debug",
+        "System": "Information",
+        "Microsoft": "Error"
+        },
+        "File": {
+            "Path": "logs/app.log",
+            "Append": "True"
+        }
+    }
+
+}
