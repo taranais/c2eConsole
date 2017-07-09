@@ -4,7 +4,7 @@
     <!--<ProjectReference Include="..\..\c2eLib\src\c2eLib.csproj" />-->
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="c2eLib" Version="0.0.1" />
+    <PackageReference Include="c2eLib" Version="0.0.2" />
     <PackageReference Include="CommandLineParser" Version="2.1.1-beta" />
     <PackageReference Include="ReadLine" Version="1.2.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="1.1.2" />
